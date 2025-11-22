@@ -1,0 +1,10 @@
+Statistik.csv
+Teilnehmer, Gesamtstrecke, Zeitstempel
+
+Zeitstempel.csv
+ID, Status, Edit, Print, Close, Reopen
+    Status: ('unedit', 'open', 'reopen', 'close')
+    Edit: Zeitstempel der letzten Bearbeitung
+    Print: Zeitstempel der letzten Urkunde
+    Close: Zeitstempel bei Schließen des Datensatzes
+    Reopen: Zeitstempel bei wieder öffnen der Datensatzes
